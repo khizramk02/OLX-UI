@@ -1,0 +1,10 @@
+.banner {
+  position: absolute;
+}
+.banner-div {
+  display: block;
+}
+.banner-div img {
+  position: initial;
+  height: 200px;
+}
