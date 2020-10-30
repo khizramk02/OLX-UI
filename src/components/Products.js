@@ -1,6 +1,6 @@
 import React from 'react'
 import Card from './FeatureCard';
-import CarouselData from '../API/FeaturedData';
+//import CarouselData from '../API/FeaturedData';
 // import CarouselData from '../API/DummyData.json';
 import DummyData from '../API/DummyData.json';
 import './Card.css';
